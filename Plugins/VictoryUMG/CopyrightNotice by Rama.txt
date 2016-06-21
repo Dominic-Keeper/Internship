@@ -1,0 +1,27 @@
+Copyright Notice
+
+"UE4 Licensee" refers to anyone who has signed the Unreal Engine 4 Terms of Service and has agreed to abide by the terms of the Unreal Engine 4 EULA.
+
+https://www.unrealengine.com/eula
+
+UE4 Licensees may include my plugin in their project, just please credit me somewhere appropriate as "Rama" !
+
+The UE4 Color picker is situated in Runtime/AppFramework as SColorPicker.
+
+SColorPicker is therefore in the part of the UE4 code base that UE4 Licensees are allowed to include in packaged games.
+
+My plugin code only contains my additions / extensions of UMG and SColorPicker, I am not including any copies of UE4 classes or large amounts of UE4 engine code in the publically available download link.
+
+I exposed my UJoyColorWheel UMG class to my plugin API, so that you have the option to derive from it at your project level to make your own custom UMG Color Picker.
+
+Any use of my plugin or classes deriving from my UJoyColorWheel class falls under Epic's UE4 license terms.
+
+The bulk of the relevant code for my plugin is in SColorPicker and UWidget which are Epic's intellectual property.
+
+You may not put my plugin on the UE4 Marketplace.
+
+This plugin is free for everyone!
+
+Rama
+
+Copyright 2016

@@ -1,0 +1,23 @@
+{
+	"PluginFileVersion" : 1,
+
+	"FriendlyName" : "Victory UMG",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Rama",
+	"CreatedByURL" : "https://forums.unrealengine.com/showthread.php?299-Wiki-Code-Tutorials",
+	"EngineVersion" : 1579795,
+	"Description" : "Rama's UMG Widgets for You!",
+	"Category" : "Victory Plugin",
+	
+	"Modules" :
+	[		
+		{
+			"Name" : "VictoryUMG",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+		},
+
+		
+	]
+}
