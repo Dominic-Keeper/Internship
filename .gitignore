@@ -49,5 +49,5 @@ Temporary Items
 #Ignore autosaves
 Saved/
 Intermediate/
-Config/DefaultEditorPerProjectUserSettings.ini
-Content/TopDownBP/Blueprints/RylanBPspecial.uasset
+Config/
+*.uproject
